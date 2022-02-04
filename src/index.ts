@@ -1,0 +1,2 @@
+// Start application
+import './config';
